@@ -1,2 +1,1 @@
-# Blood
-Ddos
+tool cho em trai
